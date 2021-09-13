@@ -1,0 +1,12 @@
+2021-09-13 06:40:01.788567 	https://www.youtube.com/kids/sitemap.xml
+2021-09-13 06:40:01.788839 	https://www.youtube.com/trends/sitemap.xml
+2021-09-13 06:40:01.788858 	https://www.youtube.com/creators/sitemap-old.xml
+2021-09-13 06:40:01.788868 	https://www.youtubego.com/sitemap.xml
+2021-09-13 06:40:01.788877 	https://www.youtube.com/about/sitemap.xml
+2021-09-13 06:40:01.788886 	https://www.youtube.com/creatorresearch/sitemap.xml
+2021-09-13 06:40:01.788895 	https://www.youtube.com/product/sitemap-files/sitemap-004.xml.gz
+2021-09-13 06:40:01.788904 	https://www.youtube.com/ads/sitemap.xml
+2021-09-13 06:40:01.788913 	https://www.youtube.com/myfamily/sitemap.xml
+2021-09-13 06:40:01.788922 	https://www.youtube.com/yt/terms/sitemap.xml
+2021-09-13 06:40:01.788930 	https://contributors.youtube.com/sitemap.xml
+2021-09-13 06:40:01.788938 	https://www.youtube.com/product/sitemap-files/sitemap-002.xml.gz
